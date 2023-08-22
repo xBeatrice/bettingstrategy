@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bettingstrategy/static/css/main.e6c13ad2.css",
+    "main.js": "/bettingstrategy/static/js/main.069392de.js",
+    "index.html": "/bettingstrategy/index.html",
+    "main.e6c13ad2.css.map": "/bettingstrategy/static/css/main.e6c13ad2.css.map",
+    "main.069392de.js.map": "/bettingstrategy/static/js/main.069392de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.069392de.js"
+  ]
+}
